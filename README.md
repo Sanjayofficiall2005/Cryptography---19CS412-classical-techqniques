@@ -247,10 +247,11 @@ int main() {
 ## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/28c8e329-5289-4a43-85c7-44e688504b24)
-
+```
 Key text: sanju
 Plain text: saveetha
 Cipher text: anxcgqis
 Decrypted text: saveetha
+```
 ## RESULT:
 The program is executed successfully
