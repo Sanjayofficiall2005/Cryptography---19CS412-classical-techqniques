@@ -85,7 +85,6 @@ int main() {
 }
 ```
 ## OUTPUT:
-OUTPUT :
 Simulating Vigenere Cipher
 
 ![image](https://github.com/user-attachments/assets/f5c128fa-8bf4-422b-b17c-8cf10603a3b7)
